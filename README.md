@@ -1,5 +1,10 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ambianic/peerjs-python)
 
+# JG Install notes
+1. apt install libavdevice-dev libavfilter-dev libopus-dev libvpx-dev pkg-config libsrtp2-dev
+2. python setup.py sdist
+
+
 # peerjs-python
 
 Python port of [PeerJS](https://github.com/peers) client. 
